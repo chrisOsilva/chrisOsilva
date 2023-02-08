@@ -37,3 +37,9 @@ Bem, eu me chamo Christian Oliveira da Silva e sou um Quality Assurance em trans
 💡 Conhecimentos sobre Lógica de programação e Algoritmos (Java, Javascript e Ruby).
 
 O INTUITO DESTE REPOSITÓRIO É A DIVULGAÇÃO DE MEUS CÓDIGOS, ARTEFATOS E TESTES DESENVOLVIDOS NESTA JORNADA DE ESTUDOS. TODOS ELES SINALIZADOS COM DICAS E COMENTÁRIOS PERTINENTES QUE POSSAM SERVIR DE APOIO PARA O ESTUDO DAQUELES QUE COMO EU BUSCAM APROFUNDAR SEUS CONHECIMENTOS ✨
+
+<div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisOsilva&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisOsilva&layout=compact&theme=dracula"/>
+</div>
